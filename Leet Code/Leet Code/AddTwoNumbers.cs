@@ -14,23 +14,23 @@ namespace Leet_Code
         }
     }
 
-    public class AddTwoNumbersProblem
+    public class Solution
     {
 
-        static void Main(string[] args)
-        {
-            AddTwoNumbersProblem solution = new AddTwoNumbersProblem();
-            ListNode l1 = new ListNode(2);
-            l1.next = new ListNode(4);
-            l1.next.next = new ListNode(3);
+        //static void Main(string[] args)
+        //{
+        //    Solution solution = new Solution();
+        //    ListNode l1 = new ListNode(2);
+        //    l1.next = new ListNode(4);
+        //    l1.next.next = new ListNode(3);
 
-            ListNode l2 = new ListNode(5);
-            l2.next = new ListNode(6);
-            l2.next.next = new ListNode(4);
+        //    ListNode l2 = new ListNode(5);
+        //    l2.next = new ListNode(6);
+        //    l2.next.next = new ListNode(4);
 
-            var result = solution.AddTwoNumbers(l1, l2);
+        //    var result = solution.AddTwoNumbers(l1, l2);
 
-        }
+        //}
         public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
         {
             var result = new ListNode(0);
