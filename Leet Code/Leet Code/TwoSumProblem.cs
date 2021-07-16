@@ -2,22 +2,22 @@
 
 namespace Leet_Code
 {
-    class Program
+    class TwoSumProblem
     {
-        static void Main(string[] args)
-        {
+        //static void Main(string[] args)
+        //{
 
-            Program prog = new Program();
+        //    TwoSumProblem prog = new TwoSumProblem();
             
-            // Testing Variables and Code
-            int[] nums = { 2, 7, 11, 15 };
-            int target = 9;
-            int[] a = prog.TwoSum(nums, target);
-            foreach (var item in a)
-            {
-                Console.WriteLine(item);
-            }
-        }
+        //    // Testing Variables and Code
+        //    int[] nums = { 2, 7, 11, 15 };
+        //    int target = 9;
+        //    int[] a = prog.TwoSum(nums, target);
+        //    foreach (var item in a)
+        //    {
+        //        Console.WriteLine(item);
+        //    }
+        //}
 
         /*
         Given an array of integers nums and an integer target, 

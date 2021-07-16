@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Coding\\Projects\\Leet Code\\Leet Code\\Leet Code\\Leet Code.csproj": {}
+    "C:\\Coding\\LeetCodePractice\\Leet Code\\Leet Code\\Leet Code.csproj": {}
   },
   "projects": {
-    "C:\\Coding\\Projects\\Leet Code\\Leet Code\\Leet Code\\Leet Code.csproj": {
+    "C:\\Coding\\LeetCodePractice\\Leet Code\\Leet Code\\Leet Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Coding\\Projects\\Leet Code\\Leet Code\\Leet Code\\Leet Code.csproj",
+        "projectUniqueName": "C:\\Coding\\LeetCodePractice\\Leet Code\\Leet Code\\Leet Code.csproj",
         "projectName": "Leet Code",
-        "projectPath": "C:\\Coding\\Projects\\Leet Code\\Leet Code\\Leet Code\\Leet Code.csproj",
+        "projectPath": "C:\\Coding\\LeetCodePractice\\Leet Code\\Leet Code\\Leet Code.csproj",
         "packagesPath": "C:\\Users\\nickm\\.nuget\\packages\\",
-        "outputPath": "C:\\Coding\\Projects\\Leet Code\\Leet Code\\Leet Code\\obj\\",
+        "outputPath": "C:\\Coding\\LeetCodePractice\\Leet Code\\Leet Code\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
