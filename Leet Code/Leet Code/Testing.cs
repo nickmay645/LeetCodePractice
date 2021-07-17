@@ -6,10 +6,9 @@ namespace Leet_Code
     {
         static void Main(string[] args)
         {
-            FindMedianSortedArraysProblem test = new();
-            int[] nums1 = { 1, 3 };
-            int[] nums2 = { 2, 7 };
-            double result = test.FindMedianSortedArrays(nums1, nums2);
+            PalindromeNumberProblem test = new();
+            int x = -121;
+            var result = test.IsPalindrome(x);
             Console.WriteLine(result);
 
         }
