@@ -6,9 +6,9 @@ namespace Leet_Code
     {
         static void Main(string[] args)
         {
-            PalindromeNumberProblem test = new();
-            int x = -121;
-            var result = test.IsPalindrome(x);
+            ValidParentheses test = new();
+            string strs = "(]";
+            var result = test.IsValid(strs);
             Console.WriteLine(result);
 
         }
