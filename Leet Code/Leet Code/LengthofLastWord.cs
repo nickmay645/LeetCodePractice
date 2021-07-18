@@ -10,7 +10,20 @@ namespace Leet_Code
     {
         public int LengthOfLastWord(string s)
         {
-            
-        }
+			var lastCount = 0;
+			foreach (var c in s.Trim())
+			{
+				if (c == ' ')
+				{
+					lastCount = 0;
+				}
+				else
+				{
+					lastCount++;
+				}
+			}
+
+			return lastCount;
+		}
     }
 }
