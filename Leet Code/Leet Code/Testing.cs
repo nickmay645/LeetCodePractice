@@ -6,10 +6,14 @@ namespace Leet_Code
     {
         static void Main(string[] args)
         {
-            ValidParentheses test = new();
-            string strs = "(]";
-            var result = test.IsValid(strs);
-            Console.WriteLine(result);
+            PlusOneProblem test = new();
+            int[] digits = { 1, 2, 3 };
+            var result = test.PlusOne(digits);
+            foreach(var item in result)
+            {
+                Console.WriteLine(item);
+            }
+            
 
         }
     }
