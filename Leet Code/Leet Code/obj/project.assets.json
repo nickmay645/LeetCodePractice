@@ -8,26 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nickm\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Nick\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Coding\\LeetCodePractice\\Leet Code\\Leet Code\\Leet Code.csproj",
+      "projectUniqueName": "C:\\Users\\Nick\\Documents\\Code\\LeetCodePractice\\Leet Code\\Leet Code\\Leet Code.csproj",
       "projectName": "Leet Code",
-      "projectPath": "C:\\Coding\\LeetCodePractice\\Leet Code\\Leet Code\\Leet Code.csproj",
-      "packagesPath": "C:\\Users\\nickm\\.nuget\\packages\\",
-      "outputPath": "C:\\Coding\\LeetCodePractice\\Leet Code\\Leet Code\\obj\\",
+      "projectPath": "C:\\Users\\Nick\\Documents\\Code\\LeetCodePractice\\Leet Code\\Leet Code\\Leet Code.csproj",
+      "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nick\\Documents\\Code\\LeetCodePractice\\Leet Code\\Leet Code\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\nickm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

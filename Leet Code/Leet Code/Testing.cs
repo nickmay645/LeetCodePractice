@@ -6,11 +6,14 @@ namespace Leet_Code
     {
         static void Main(string[] args)
         {
-            FindMedianSortedArraysProblem test = new();
-            int[] nums1 = { 1, 3 };
-            int[] nums2 = { 2, 7 };
-            double result = test.FindMedianSortedArrays(nums1, nums2);
+            AddBinaryProblem test = new();
+            var result = test.AddBinary("10001", "110110");
             Console.WriteLine(result);
+            //foreach(var item in result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            
 
         }
     }
